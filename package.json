@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "cron": "^1.7.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "node-fetch": "^2.6.0",
     "redis": "^2.8.0"
   }
